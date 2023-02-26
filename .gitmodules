@@ -1,3 +1,6 @@
 [submodule "dev-back"]
 	path = dev-back
 	url = https://github.com/ndrohith09/Devcraftsman_backend.git
+[submodule "dev-front"]
+	path = dev-front
+	url = https://github.com/ndrohith09/DevCraftsMan_front-end.git
