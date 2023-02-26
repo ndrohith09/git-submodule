@@ -1,0 +1,3 @@
+[submodule "dev-back"]
+	path = dev-back
+	url = https://github.com/ndrohith09/Devcraftsman_backend.git
